@@ -4,7 +4,7 @@
 
 ### Week 1: Sentiment in text
 
-The first step in understanding sentiment in text, and in particular when training a neural network to do so is the tokenization of that text. </br
+The first step in understanding sentiment in text, and in particular when training a neural network to do so is the tokenization of that text. </br>
 
 This is the process of converting the text into numeric values, with a number representing a word or a character. </br>
 
