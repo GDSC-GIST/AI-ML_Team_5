@@ -2,7 +2,7 @@
 
 ## <a href = "https://www.coursera.org/learn/natural-language-processing-tensorflow?specialization=tensorflow-in-practice">Coursera: Natural Language Processing in TensorFlow</a>
 
-### Week 1: Sentiment in text
+### Week 1: Sentiment in text (Last Update: 21.10.15 Fri)
 
 The first step in understanding sentiment in text, and in particular when training a neural network to do so is the tokenization of that text. </br>
 
