@@ -9,3 +9,8 @@ The first step in understanding sentiment in text, and in particular when traini
 This is the process of converting the text into numeric values, with a number representing a word or a character. </br>
 
 This week you'll learn about the Tokenizer and `pad_sequences` APIs in TensorFlow and how they can be used to prepare and encode text and sentences to get them ready for training neural networks!
+
+----
+
+\* Additional Things
+- You need to add your account to the organization repository to log the commit.
