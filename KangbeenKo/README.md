@@ -14,6 +14,10 @@ This week you'll learn about the Tokenizer and `pad_sequences` APIs in TensorFlo
     - Tokenizer에서 Hyper Parameter `num_words`가 의미하는 바가 무엇인가?
 
         <a href= "https://stackoverflow.com/questions/64158898/what-does-keras-tokenizer-num-words-specify">[What does Keras Tokenizer num_words specify?]</a>
+
+        > `num_words`는 `word_index`에는 영향을 주지 않으나, sequence를 형성할 때 `num_words` -1 개의 최빈 단어 토큰만으로 sequence를 구성하게 하는 역할을 한다.
+        즉, `num_words`값 보다 큰 word index를 갖는 토큰은 무시하고 전부 OOV로 취급한다.
+
     - 최신버전(v2)의 JSON 파일에서는 각 열이 comma로 분리되어 있지 않아 `json.load()`에서 에러가 발생한다. 이는 데이터셋의 문제인가?
     
         <a href="https://www.kaggle.com/rmisra/news-headlines-dataset-for-sarcasm-detection/discussion/167722">[Parsing Error using Python]</a>
