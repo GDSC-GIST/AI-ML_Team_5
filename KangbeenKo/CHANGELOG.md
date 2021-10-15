@@ -1,3 +1,9 @@
+## v0.4.1 (2021-10-15)
+
+### Fix
+
+- **commit-log**: add as a contributor
+
 ## v0.4.0 (2021-10-15)
 
 ### Feat
