@@ -1,3 +1,9 @@
+## v0.6.0 (2021-10-29)
+
+### Feat
+
+- **Week2-2**: Sarcasm Classifier
+
 ## v0.5.0 (2021-10-29)
 
 ### Feat
