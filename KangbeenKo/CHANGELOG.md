@@ -1,3 +1,9 @@
+## v0.8.1 (2021-11-05)
+
+### Fix
+
+- **Week-3**: sarcasm.json - Permission denied
+
 ## v0.8.0 (2021-11-05)
 
 ### Feat
