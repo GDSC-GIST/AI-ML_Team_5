@@ -1,3 +1,13 @@
+## v0.10.0 (2021-11-11)
+
+### Feat
+
+- **Week4**: Lab02
+
+### Fix
+
+- **README.md**: handle the conflict
+
 ## v0.9.0 (2021-11-10)
 
 ### Feat
