@@ -1,3 +1,9 @@
+## v0.12.0 (2021-11-11)
+
+### Feat
+
+- **Natural-Language-Processing-in-TensorFlow**: Add Certificate
+
 ## v0.11.0 (2021-11-11)
 
 ### Feat
